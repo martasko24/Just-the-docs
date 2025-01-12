@@ -11,7 +11,7 @@ Language Industry Researcher | Founder @ Custom.MT
 
 Source: [LinkedIn](https://www.linkedin.com/pulse/declining-translation-jevons-paradox-konstantin-dranch-oohye/)
 
-December 16, 2024
+December 16, 2024 <--- verify date
 
 Automated translation promised a period of prosperity for the profession where increased productivity would create an explosion of demand. Instead, there are signs of a downturn. This year has been marked by stories of declining revenues among translation companies and the downsizing or elimination of in-house localization teams. While I cannot disclose many private cases, here are public examples from listed Language Service Providers (LSPs) that illustrate this trend.
 
@@ -44,7 +44,7 @@ In an ideal world, translation would be universal, with every website, textbook,
 
 So why are many translation companies struggling instead of thriving?
 
-
+<--- extra space?
 ## Factors Behind the Decline
 
 1. Document Translation shifted to apps
