@@ -1,5 +1,5 @@
 ---
-title: Markdown_Index
+title: Markdown Index
 layout: default
 nav_order: 2
 ---
