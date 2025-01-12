@@ -1,5 +1,5 @@
 ---
-title: Markdown exercise
+title: Markdown exercises
 layout: default
 nav_order: 3
 ---
