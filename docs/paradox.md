@@ -1,3 +1,9 @@
+---
+title: Mardown demo
+layout: default
+nav_order: 4
+---
+
 # Declining Translation and Jevon’s Paradox
 Konstantin Dranch
 Language Industry Researcher | Founder @ Custom.MT
