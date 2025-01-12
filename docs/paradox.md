@@ -1,7 +1,7 @@
 ---
 title: Declining Translation
 layout: default
-parent: Markdown Exercises
+parent: Markdown exercises
 nav_order: 1
 ---
 
