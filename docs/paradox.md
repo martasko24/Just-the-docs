@@ -1,7 +1,8 @@
 ---
 title: Declining Translation
 layout: default
-nav_order: 4
+parent: Markdown Exercises
+nav_order: 1
 ---
 
 # Declining Translation and Jevon’s Paradox
