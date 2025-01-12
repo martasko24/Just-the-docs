@@ -1,7 +1,8 @@
 ---
 title: Whisper Readme
 layout: default
-nav_order: 5
+parent: Markdown exercises
+nav_order: 2
 ---
 
 # Whisper
