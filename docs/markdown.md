@@ -2,7 +2,6 @@
 title: Markdown Index
 layout: default
 nav_order: 2
-color_scheme: dark
 ---
 
 # Title <!-- omit in toc -->
